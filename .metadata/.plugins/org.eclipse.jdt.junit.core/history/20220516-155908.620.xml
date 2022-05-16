@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MovieTest" project="Lab4.3_Blockbuster" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="MovieTest" time="0.075" uniqueid="[engine:junit-jupiter]/[class:MovieTest]">
+    <testcase name="testVHSRunTime" classname="MovieTest" time="0.043" displayname="testVHSRunTime()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSRunTime()]"/>
+    <testcase name="testDVDInstance" classname="MovieTest" time="0.003" displayname="testDVDInstance()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testDVDInstance()]"/>
+    <testcase name="testVHSPlayExtended" classname="MovieTest" time="0.003" displayname="testVHSPlayExtended()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSPlayExtended()]"/>
+    <testcase name="testVHSPlay" classname="MovieTest" time="0.002" displayname="testVHSPlay()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSPlay()]"/>
+    <testcase name="testVHSCurrentTime" classname="MovieTest" time="0.002" displayname="testVHSCurrentTime()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSCurrentTime()]"/>
+    <testcase name="testDVDTitle" classname="MovieTest" time="0.004" displayname="testDVDTitle()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testDVDTitle()]"/>
+    <testcase name="testVHSInstance" classname="MovieTest" time="0.002" displayname="testVHSInstance()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSInstance()]"/>
+    <testcase name="testDVDRunTime" classname="MovieTest" time="0.001" displayname="testDVDRunTime()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testDVDRunTime()]"/>
+    <testcase name="testVHSRewind" classname="MovieTest" time="0.001" displayname="testVHSRewind()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSRewind()]"/>
+    <testcase name="testVHSTitle" classname="MovieTest" time="0.001" displayname="testVHSTitle()" uniqueid="[engine:junit-jupiter]/[class:MovieTest]/[method:testVHSTitle()]"/>
+  </testsuite>
+</testrun>
